@@ -16,4 +16,4 @@ A selection of independent projects I’ve taken on alongside my full-time work.
 <img src="assets/seuze.png" height="16" align="absmiddle" alt=""> **[SeuZé.tech](https://seuze.tech) · Side project**\
 I started SeuZé in 2021 as a volunteer project for my condo community. It grew after my neighbors started using it, and I’m now turning it into a product for other condo communities in my spare time.
 
-![Now playing Rush — YYZ, animated in Morse code](assets/yyz.gif)
+![YYZ in animated Morse code](assets/yyz.gif)
